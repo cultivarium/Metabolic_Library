@@ -1,0 +1,64 @@
+ Acinetobacter baumannii AB5075
+ Acinetobacter baumannii ATCC 17978
+ Agrobacterium fabrum C58
+ Anopheles gambiae
+ Aurantimonas manganoxydans SI85-9A1
+ Bacillus anthracis Ames
+ Bacillus subtilis subtilis 168
+ Bifidobacterium longum longum JCM 1217
+ Brucella abortus 2308
+ Brucella ovis ATCC 25840
+ Candida albicans SC5314
+ Candidatus Cardinium hertigii
+ Candidatus Evansia muelleri
+ Candidatus Portiera aleyrodidarum BT-QVLC
+ Caulobacter crescentus NA1000
+ Caulobacter vibrioides CB15
+ Chlamydia trachomatis D/UW-3/CX
+ Clostridioides difficile 630
+ Clostridioides difficile R20291
+ Clostridium saccharoperbutylacetonicum N1-4HMT
+ Collinsella aerofaciens ATCC 25986
+ Corynebacterium glutamicum ATCC 13032
+ Desulfovibrio piger ATCC 29098
+ Drosophila melanogaster
+ Escherichia coli B str. REL606
+ Escherichia coli CFT073
+ Escherichia coli K-12 substr. W3110
+ Escherichia coli O157:H7 str. EDL933
+ Faecalibacterium prausnitzii A2-165
+ Helicobacter pylori 26695
+ Lactobacillus plantarum WCFS1
+ Lactobacillus rhamnosus GG
+ Lactococcus lactis lactis IL1403
+ Leishmania major strain Friedlin
+ Listeria monocytogenes 10403S
+ Methanobrevibacter smithii ATCC 35061
+ Methanocaldococcus jannaschii DSM 2661
+ Methanosarcina mazei Go1
+ Mus musculus
+ Mycobacterium tuberculosis CDC1551
+ Mycobacterium tuberculosis H37Rv
+ Penicillium rubens Wisconsin 54-1255
+ Plasmodium falciparum 3D7
+ Porphyromonas gingivalis W50
+ Prevotella copri DSM 18205
+ Prochlorococcus marinus marinus CCMP1375
+ Prochlorococcus marinus pastoris CCMP1986
+ Pseudomonas putida KT2440
+ Salmonella enterica enterica serovar Typhimurium str. 14028S
+ Salmonella enterica enterica serovar Typhimurium str. LT2
+ Salmonella enterica enterica serovar Typhimurium str. SL1344
+ Schistosoma mansoni
+ Shigella flexneri 2a str. 2457T
+ Sinorhizobium meliloti 1021
+ Staphylococcus aureus aureus NCTC 8325
+ Streptomyces coelicolor A32
+ Sulfurospirillum multivorans
+ Synechococcus elongatus PCC 7942
+ Synechococcus sp. WH 8102
+ Thalassiosira pseudonana CCMP1335
+ Trypanosoma brucei
+ Vibrio cholerae O1 biovar El Tor str. N16961
+ [Clostridium] symbiosum WAL-14163
+ [Eubacterium rectale] ATCC 33656

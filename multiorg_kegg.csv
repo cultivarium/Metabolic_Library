@@ -1,0 +1,122 @@
+,taxid,og org,og taxid,kegg id,name
+0,243159,Acidithiobacillus ferrooxidans,920,afr,Acidithiobacillus ferrooxidans ATCC 23270
+1,N/A,Alcaligenes faecalis,358,afa,Alcaligenes faecalis ZD02
+2,N/A,Alcaligenes faecalis,358,afq,Alcaligenes faecalis JQ135
+3,521098,Alicyclobacillus acidocaldarius,405212,aac,Alicyclobacillus acidocaldarius subsp. acidocaldarius DSM 446
+4,1048834,Alicyclobacillus acidocaldarius,405212,aad,Alicyclobacillus acidocaldarius subsp. acidocaldarius Tc-4-1
+5,312309,Aliivibrio fischeri,668,vfi,Aliivibrio fischeri ES114
+6,388396,Aliivibrio fischeri,668,vfm,Aliivibrio fischeri MJ11
+7,322710,Azotobacter vinelandii,354,avn,Azotobacter vinelandii DJ
+8,1283330,Azotobacter vinelandii,354,avl,Azotobacter vinelandii CA
+9,1283331,Azotobacter vinelandii,354,avd,Azotobacter vinelandii CA6
+10,224308,Bacillus subtilis,1423,bsu,Bacillus subtilis subsp. subtilis 168
+11,1052588,Bacillus subtilis,1423,bsr,Bacillus subtilis subsp. subtilis RO-NN-1
+12,1192196,Bacillus subtilis,1423,bsl,Bacillus subtilis subsp. subtilis BSP1
+13,1147161,Bacillus subtilis,1423,bsh,Bacillus subtilis subsp. subtilis 6051-HGW
+14,N/A,Bacillus subtilis,1423,bsy,Bacillus subtilis subsp. subtilis BAB-1
+15,1221328,Bacillus subtilis,1423,bsut,Bacillus subtilis subsp. subtilis AG1839
+16,N/A,Bacillus subtilis,1423,bsul,Bacillus subtilis subsp. subtilis JH642
+17,N/A,Bacillus subtilis,1423,bsus,Bacillus subtilis subsp. subtilis OH 131.1
+18,645657,Bacillus subtilis,1423,bso,Bacillus subtilis subsp. natto BEST195
+19,936156,Bacillus subtilis,1423,bsn,Bacillus subtilis BSn5
+20,1220533,Bacillus subtilis,1423,bsq,Bacillus subtilis QB928
+21,1233100,Bacillus subtilis,1423,bsx,Bacillus subtilis XF-1
+22,1415167,Bacillus subtilis,1423,bsp,Bacillus subtilis PY79
+23,N/A,Bacillus subtilis,1423,bss,Bacillus subtilis subsp. spizizenii W23
+24,1052585,Bacillus subtilis,1423,bst,Bacillus subtilis subsp. spizizenii TU-B-10
+25,1009846,Burkholderia cepacia,292,bct,Burkholderia cepacia GG4
+26,N/A,Burkholderia cepacia,292,bced,Burkholderia cepacia DDS 7H-2
+27,290402,Clostridium beijerinckii,1520,cbe,Clostridium beijerinckii NCIMB 8052
+28,864803,Clostridium beijerinckii,1520,cbz,Clostridium beijerinckii ATCC 35702
+29,N/A,Clostridium beijerinckii,1520,cbei,Clostridium beijerinckii NCIMB 14988
+30,N/A,Corynebacterium glutamicum,285,cgl,Corynebacterium glutamicum ATCC 13032 (Kyowa Hakko)
+31,634956,Geobacillus thermoglucosidasius,1426,gth,Parageobacillus thermoglucosidasius C56-YS93
+32,64091,Halobacterium salinarum,2242,hal,Halobacterium salinarum NRC-1
+33,478009,Halobacterium salinarum,2242,hsl,Halobacterium salinarum R1
+34,751944,Halobacterium sp.,2243,hdl,Halobacterium sp. DL1
+35,2812551,Halobacterium sp.,2243,hags,Halobacterium sp. GSL-19
+36,2810537,Halobacterium sp.,2243,habo,Halobacterium sp. BOL4-2
+37,N/A,Klebsiella pneumoniae,62320,kpn,Klebsiella pneumoniae subsp. pneumoniae MGH 78578 (serotype K52) Prokaryotes;Bacteria;Gammaproteobacteria -
+38,N/A,Klebsiella pneumoniae,62320,kpu,Klebsiella pneumoniae subsp. pneumoniae NTUH-K2044 (serotype K1) Prokaryotes;Bacteria;Gammaproteobacteria -
+39,N/A,Klebsiella pneumoniae,62320,kpm,Klebsiella pneumoniae subsp. pneumoniae HS11286 Prokaryotes;Bacteria;Gammaproteobacteria -
+40,N/A,Klebsiella pneumoniae,62320,kpp,Klebsiella pneumoniae subsp. pneumoniae 1084 (serotype K1) Prokaryotes;Bacteria;Gammaproteobacteria -
+41,N/A,Klebsiella pneumoniae,62320,kph,Klebsiella pneumoniae subsp. pneumoniae KPNIH24 Prokaryotes;Bacteria;Gammaproteobacteria -
+42,N/A,Klebsiella pneumoniae,62320,kpz,Klebsiella pneumoniae subsp. pneumoniae KPNIH27 Prokaryotes;Bacteria;Gammaproteobacteria -
+43,N/A,Klebsiella pneumoniae,62320,kpv,Klebsiella pneumoniae subsp. pneumoniae KPNIH29 Prokaryotes;Bacteria;Gammaproteobacteria -
+44,N/A,Klebsiella pneumoniae,62320,kpw,Klebsiella pneumoniae subsp. pneumoniae KPNIH30 Prokaryotes;Bacteria;Gammaproteobacteria -
+45,N/A,Klebsiella pneumoniae,62320,kpy,Klebsiella pneumoniae subsp. pneumoniae KPNIH31 Prokaryotes;Bacteria;Gammaproteobacteria -
+46,N/A,Klebsiella pneumoniae,62320,kpg,Klebsiella pneumoniae subsp. pneumoniae KPNIH32 Prokaryotes;Bacteria;Gammaproteobacteria -
+47,N/A,Klebsiella pneumoniae,62320,kpc,Klebsiella pneumoniae subsp. pneumoniae KPNIH10 Prokaryotes;Bacteria;Gammaproteobacteria -
+48,N/A,Klebsiella pneumoniae,62320,kpq,Klebsiella pneumoniae subsp. pneumoniae KPR0928 Prokaryotes;Bacteria;Gammaproteobacteria -
+49,N/A,Klebsiella pneumoniae,62320,kpt,Klebsiella pneumoniae subsp. pneumoniae ATCC 43816 KPPR1 Prokaryotes;Bacteria;Gammaproteobacteria -
+50,N/A,Klebsiella pneumoniae,62320,kpo,Klebsiella pneumoniae KCTC 2242 Prokaryotes;Bacteria;Gammaproteobacteria -
+51,N/A,Klebsiella pneumoniae,62320,kpr,Klebsiella pneumoniae subsp. rhinoscleromatis SB3432 Prokaryotes;Bacteria;Gammaproteobacteria -
+52,N/A,Klebsiella pneumoniae,62320,kpj,Klebsiella pneumoniae JM45 Prokaryotes;Bacteria;Gammaproteobacteria -
+53,N/A,Klebsiella pneumoniae,62320,kpi,Klebsiella pneumoniae CG43 Prokaryotes;Bacteria;Gammaproteobacteria -
+54,N/A,Klebsiella pneumoniae,62320,kpa,Klebsiella pneumoniae 30660/NJST258_1 Prokaryotes;Bacteria;Gammaproteobacteria -
+55,N/A,Klebsiella pneumoniae,62320,kps,Klebsiella pneumoniae 30684/NJST258_2 Prokaryotes;Bacteria;Gammaproteobacteria -
+56,N/A,Klebsiella pneumoniae,62320,kpx,Klebsiella pneumoniae PMK1 Prokaryotes;Bacteria;Gammaproteobacteria -
+57,N/A,Klebsiella pneumoniae,62320,kpb,Klebsiella pneumoniae blaNDM-1 Prokaryotes;Bacteria;Gammaproteobacteria -
+58,N/A,Klebsiella pneumoniae,62320,kpne,Klebsiella pneumoniae 32192 Prokaryotes;Bacteria;Gammaproteobacteria -
+59,N/A,Klebsiella pneumoniae,62320,kpnu,Klebsiella pneumoniae 34618 Prokaryotes;Bacteria;Gammaproteobacteria -
+60,N/A,Klebsiella pneumoniae,62320,kpnk,Klebsiella pneumoniae Kp52.145 Prokaryotes;Bacteria;Gammaproteobacteria -
+61,272621,Lactobacillus acidophilus,1579,lac,Lactobacillus acidophilus NCFM
+62,1314884,Lactobacillus acidophilus,1579,lad,Lactobacillus acidophilus La-14
+63,N/A,Lactobacillus acidophilus,1579,laf,Lactobacillus acidophilus FSI4
+64,272623,Lactococcus lactis,1358,lla,Lactococcus lactis subsp. lactis Il1403
+65,684738,Lactococcus lactis,1358,llk,Lactococcus lactis subsp. lactis KF147
+66,929102,Lactococcus lactis,1358,llt,Lactococcus lactis subsp. lactis CV56
+67,1046624,Lactococcus lactis,1358,lls,Lactococcus lactis subsp. lactis IO-1
+68,1399116,Lactococcus lactis,1358,lld,Lactococcus lactis subsp. lactis KLDS 4.0325
+69,1117941,Lactococcus lactis,1358,llx,Lactococcus lactis subsp. lactis NCDO 2118
+70,N/A,Lactococcus lactis,1358,llj,Lactococcus lactis AI06
+71,416870,Lactococcus lactis,1358,llm,Lactococcus lactis subsp. cremoris MG1363
+72,272622,Lactococcus lactis,1358,llc,Lactococcus lactis subsp. cremoris SK11
+73,1104322,Lactococcus lactis,1358,llr,Lactococcus lactis subsp. cremoris A76
+74,746361,Lactococcus lactis,1358,lln,Lactococcus lactis subsp. cremoris NZ9000
+75,1111678,Lactococcus lactis,1358,lli,Lactococcus lactis subsp. cremoris UC509.9
+76,1295826,Lactococcus lactis,1358,llw,Lactococcus lactis subsp. cremoris KW2
+77,267377,Methanococcus maripaludis,39152,mmp,Methanococcus maripaludis S2
+78,402880,Methanococcus maripaludis,39152,mmq,Methanococcus maripaludis C5
+79,444158,Methanococcus maripaludis,39152,mmx,Methanococcus maripaludis C6
+80,426368,Methanococcus maripaludis,39152,mmz,Methanococcus maripaludis C7
+81,1053692,Methanococcus maripaludis,39152,mmd,Methanococcus maripaludis X1
+82,637914,Methanococcus maripaludis,39152,mmak,Methanococcus maripaludis KA1
+83,637915,Methanococcus maripaludis,39152,mmao,Methanococcus maripaludis OS7
+84,272630,Methylorubrum extorquens,408,mea,Methylorubrum extorquens AM1
+85,661410,Methylorubrum extorquens,408,mdi,Methylorubrum extorquens DM4
+86,419610,Methylorubrum extorquens,408,mex,Methylorubrum extorquens PA1
+87,440085,Methylorubrum extorquens,408,mch,Methylorubrum extorquens CM4
+88,N/A,Pseudomonas fluorescens,101564,pfn,Pseudomonas fluorescens UK4
+89,205922,Pseudomonas fluorescens,294,pfo,Pseudomonas fluorescens Pf0-1
+90,216595,Pseudomonas fluorescens,294,pfs,Pseudomonas fluorescens SBW25
+91,1037911,Pseudomonas fluorescens,294,pfc,Pseudomonas fluorescens A506
+92,160488,Pseudomonas putida,303,ppu,Pseudomonas putida KT2440
+93,351746,Pseudomonas putida,303,ppf,Pseudomonas putida F1
+94,76869,Pseudomonas putida,303,ppg,Pseudomonas putida GB-1
+95,390235,Pseudomonas putida,303,ppw,Pseudomonas putida W619
+96,1042876,Pseudomonas putida,303,ppt,Pseudomonas putida S16
+97,931281,Pseudomonas putida,303,ppb,Pseudomonas putida BIRD-1
+98,231023,Pseudomonas putida,303,ppi,Pseudomonas putida ND6
+99,1196325,Pseudomonas putida,303,ppx,Pseudomonas putida DOT-T1E
+100,1215088,Pseudomonas putida,303,ppuh,Pseudomonas putida HB3267
+101,1331671,Pseudomonas putida,303,pput,Pseudomonas putida H8234
+102,1211579,Pseudomonas putida,303,ppun,Pseudomonas putida NBRC 14164
+103,N/A,Pseudomonas putida,303,ppud,Pseudomonas putida DLL-E4
+104,216596,Rhizobium leguminosarum,384,rle,Rhizobium leguminosarum bv. viciae 3841
+105,395492,Rhizobium leguminosarum,384,rlt,Rhizobium leguminosarum bv. trifolii WSM2304
+106,395491,Rhizobium leguminosarum,384,rlg,Rhizobium leguminosarum bv. trifolii WSM1325
+107,754523,Rhizobium leguminosarum,384,rlb,Rhizobium leguminosarum bv. trifolii WSM1689
+108,1033991,Rhizobium leguminosarum,384,rlu,Rhizobium leguminosarum bv. trifolii CB782
+109,632772,Rhodococcus opacus,37919,rop,Rhodococcus opacus B4
+110,543736,Rhodococcus opacus,37919,roa,Rhodococcus opacus PD630
+111,518766,Rhodothermus marinus,29549,rmr,Rhodothermus marinus DSM 4252
+112,762570,Rhodothermus marinus,29549,rmg,Rhodothermus marinus SG0.5JP17-172
+113,309807,Salinibacter ruber,146919,sru,Salinibacter ruber DSM 13855
+114,761659,Salinibacter ruber,146919,srm,Salinibacter ruber M8
+115,N/A,Staphylococcus epidermidis,319224,ser,Staphylococcus epidermidis RP62A (MRSE)
+116,176280,Staphylococcus epidermidis,1282,sep,Staphylococcus epidermidis ATCC 12228
+117,1449752,Staphylococcus epidermidis,1282,sepp,Staphylococcus epidermidis PM221
+118,N/A,Staphylococcus epidermidis,1282,seps,Staphylococcus epidermidis SEI
+119,N/A,Synechococcus elongatus,148813,syc,Synechococcus elongatus PCC6301
+120,262724,Thermus thermophilus,274,tth,Thermus thermophilus HB27
